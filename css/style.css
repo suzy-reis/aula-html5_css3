@@ -1,0 +1,22 @@
+body {
+
+    background-color: rgb(233, 152, 233);
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+h1 {
+
+    color: teal;
+    font-family: 'Lucida Sans';
+}
+
+h2 {color: rgb(155, 15, 45);
+    font-family: serif;
+}
+
+.img_padrao {
+
+    margin-bottom: 2px;
+}
